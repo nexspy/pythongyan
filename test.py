@@ -49,3 +49,21 @@ Other functions
 # print("hello", x)
 
 
+"""
+Operators
+some new operators are using
+and for &&
+also similary we have
+and, or, not
+.............. not is used as :  not(x and y)
+x is y
+y is not y
+x in y
+x not in y
+"""
+x = 1
+y = 1
+if (x and y):
+    print("ok man")
+
+
